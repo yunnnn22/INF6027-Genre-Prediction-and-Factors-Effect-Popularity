@@ -1,2 +1,2 @@
 # INF6027-Genre-Prediction-and-Factors-Effect-Popularity
-Predicting Mainstream Music Genre and How Features Effect Prediction Using Multinomial Logistic Regression
+#Using Spotify dataset to predict mainstream music genre and how audio features effect prediction using multinomial logistic regression 
